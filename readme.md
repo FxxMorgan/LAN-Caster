@@ -68,14 +68,14 @@ brew install ffmpeg python-tk
 ### Opcion 1: Descarga directa
 
 ```bash
-curl -O https://raw.githubusercontent.com/tu-usuario/LAN-Caster/main/lancaster.py
+curl -O https://raw.githubusercontent.com/FxxMorgan/LAN-Caster/main/lancaster.py
 chmod +x lancaster.py
 ```
 
 ### Opcion 2: Clonar repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/LAN-Caster.git
+git clone https://github.com/FxxMorgan/LAN-Caster.git
 cd LAN-Caster
 ```
 
